@@ -1,0 +1,13 @@
+{
+  "endpoint": "https://overpass-api.de/api/interpreter",
+  "query": "[out:json][timeout:90];\n\narea[\"name\"=\"Kintamani\"]\n[\"boundary\"=\"administrative\"]\n[\"admin_level\"=\"6\"]->.kec;\n\nnwr[\"tourism\"~\"^(hotel|guest_house|hostel|motel|apartment|chalet)$\"]\n(area.kec);\n\nout center tags;",
+  "waktu_akuisisi_utc": null,
+  "catatan_waktu": "Isi waktu UTC yang tercatat saat akuisisi. Jangan gunakan waktu sekarang sebagai pengganti.",
+  "jumlah_elemen": 32,
+  "berkas_mentah": "data/raw/osm_akomodasi_kintamani_20261109_140503.json",
+  "hash_md5": "b1a575c172357fdeda793f54482c6fd4",
+  "lisensi": "Open Database License (ODbL)",
+  "atribusi": "© OpenStreetMap contributors",
+  "nama_pengambil": "ISI NAMA LENGKAP",
+  "nim_pengambil": "2501010062"
+}

@@ -1,0 +1,7 @@
+﻿aspek,pemeriksaan,status,bukti_catatan
+Sumber data,Menggunakan OpenStreetMap melalui Overpass API,Perlu konfirmasi,Query dan berkas JSON mentah
+Ketentuan penggunaan,Penggunaan API secara wajar dan tidak berulang tanpa perlu,Perlu konfirmasi,Catatan waktu dan proses akuisisi
+Lisensi,Mencantumkan lisensi ODbL dan atribusi OSM,Perlu konfirmasi,README dan laporan PDF
+Minimisasi data,"Tidak mengambil nomor telepon, email, atau kontak pemilik",Perlu diperiksa,Kolom dataset dan kode akuisisi
+Kualitas data,"Memeriksa duplikat, nama kosong, dan koordinat",Perlu diperiksa,Output pemeriksaan kualitas
+Keterbatasan,Menjelaskan bahwa data OSM bisa tidak lengkap,Perlu dilakukan,Laporan dan refleksi

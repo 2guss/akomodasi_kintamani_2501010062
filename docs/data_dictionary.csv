@@ -1,0 +1,12 @@
+﻿kolom,tipe,deskripsi,contoh,boleh_kosong
+osm_type,teks,"Jenis objek OSM: node, way, atau relation",way,Tidak
+osm_id,bilangan bulat,ID objek di OpenStreetMap,123456789,Tidak
+nama,teks,Nama akomodasi sesuai tag name,Nama akomodasi,"Ya, wajib dihitung"
+jenis,teks,Nilai tag tourism,guest_house,Tidak
+lat,desimal,Latitude koordinat WGS84,-8.27,Tidak
+lon,desimal,Longitude koordinat WGS84,115.37,Tidak
+desa,teks,Desa sesuai tag addr:village,Nama desa,Ya
+bintang,teks,Klasifikasi bintang dari tag stars,3,Ya
+jumlah_kamar,teks,Jumlah kamar dari tag rooms,20,Ya
+website,teks,Situs resmi akomodasi,https://contoh.id,Ya
+url_osm,teks,Tautan ke objek OpenStreetMap,https://www.openstreetmap.org/way/123,Tidak
